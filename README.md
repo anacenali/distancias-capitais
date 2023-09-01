@@ -1,4 +1,18 @@
-# Distância entre capitais brasileiras
-Tabela de distância terrestre entre capitais brasileiras que mostra areferida distância em km.
-
-É preciso ter atenção pois em alguns casos, essa distância é aérea.
+# 🚀 Projeto Distância Capitais 
+## 📋 Sobre o Distância Capitais 
+O projeto Despesas foi composto pelas seguinte matéria:
+* Fundamentos de Desenvolvimento Web
+## 📄 Descrição do projeto
+Projeto criado durante as aulas de Fundamentos de desenvolvimento web. Nessas aulas, o professor trabalhou css, html.Distância capitais pode ser usado para calcular distância entre capitais brasileiras.
+## 🔧 Tecnologias, ferramentas, e linguagens usadas
+* VSCODE
+* html
+* css
+* img
+* head
+* GITHUB
+* git clone
+* git add .
+* git commit -m ""
+* git push
+* git status
